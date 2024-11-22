@@ -17,7 +17,7 @@ Desenvolvi uma landing page inspirada na marca Starbucks utilizando React.js, St
 1. React.js
 2. Styled Components
 3. HTML5
-4. CSS3
+
 
 *Resultado*
 
